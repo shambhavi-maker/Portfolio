@@ -1,4 +1,4 @@
-# Shambhavi Verma | AI/ML Engineer Portfolio
+# Shambhavi Verma | AI/ML Engineer
 
 Welcome to my GitHub portfolio! I'm **Shambhavi Verma**, an AI/ML Engineer with over a year of experience specializing in **Machine Learning**, **Vision Language Models (LLMs)**, **Large Language Models (LLMs)**, **Natural Language Processing (NLP)**, and **Retrieval-Augmented Generation (RAG)**.
 
