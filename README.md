@@ -84,7 +84,6 @@ I am a Data Scientist and Generative AI Engineer skilled in building scalable AI
 
 - **LinkedIn**: [shambhavi-verma](https://linkedin.com/in/shambhavi-verma)  
 - **Email**: vshambhavi177@gmail.com  
-- **Phone**: +91 9625384767
 
 Feel free to explore my repositories and reach out if you're interested in collaborations or have any questions!
 
